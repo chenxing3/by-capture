@@ -38,6 +38,7 @@ http://mreps.univ-mlv.fr/index.html
 
 http://www.chevreux.org/projects_mira.html
 
+Please specify the these software in the script "begin.py" from row 25 to 30.
 
 ## Getting the source code
 
