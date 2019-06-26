@@ -12,7 +12,10 @@ biopython
 multiprocessing
 
 
-Besides python, the following software also required:
+
+
+
+Besides python packages, the following software also required:
 
 mrsfast
 
