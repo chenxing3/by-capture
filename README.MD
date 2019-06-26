@@ -47,3 +47,10 @@ Here, we summarize how to setup this software package and run the scripts on a s
 # A quick run for rDNA:
 
     $ python begion.py --organelle rDNA
+
+
+
+## License
+Code and audio data are available for research purposes only. For any other use of the software or data, please contact the us.
+
+Our email: chenxing3753@qq.com
