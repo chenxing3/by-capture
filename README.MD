@@ -1,4 +1,4 @@
-by-capture is a tool to assembly mitochondrial geneome or rDNA or other small gene regions. 
+by-capture is a tool to assembly mitochondrial geneome or rDNA or other small gene regions, which depend on SPAdes assember.
 
 ## Citation
 
