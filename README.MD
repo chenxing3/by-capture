@@ -25,7 +25,20 @@ Besides python packages, the following software also required:
 (5) mira(optinal, alternative assembler)
 
 
+## Getting the source code
+
+To obtain the source code from github, let us assume you want to clone this repo into a
+directory named `Waveman`:
+
+    git clone https://github.com/chenxing3/by-capture
+    cd ./Waveman
+    
 ## This software support fastq or compressed files as inputs. Reference sequence also required
+
+please specify the sample name, reference file, and two reads files in the "sample.list" file.
+
+Here, we summarize how to setup this software package and run the scripts on a small dataset from firefly for mitogenome assembly.
+
 
 # A quick run for mitochondrial genome:
 
