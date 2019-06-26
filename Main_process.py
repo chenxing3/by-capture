@@ -248,6 +248,7 @@ segment_placement = ---> <---'''
             self.conf.SeqDepth += self.conf.AddDepth
             
             ref = result
+            print("Done!')
 
 
     def rDNA(self):        
@@ -264,4 +265,5 @@ segment_placement = ---> <---'''
             self.conf.Filterlength += self.conf.Add_length
             self.conf.SeqDepth += self.conf.AddDepth
             
-            ref = result            
+            ref = result
+            print("Done!')
