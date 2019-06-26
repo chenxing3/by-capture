@@ -25,7 +25,7 @@ Besides python packages, the following software also required:
 (5) mira(optinal, alternative assembler)
 
 
-This software support fastq or compressed files
+## This software support fastq or compressed files as inputs. Reference sequence also required
 
 # A quick run for mitochondrial genome:
 
