@@ -19,10 +19,24 @@ It wroten using python 3 and related packages:
 Besides python packages, the following software also required:
 
 (1) mrsfast
-(2) eqtk
+
+https://github.com/sfu-compbio/mrsfast/
+
+(2) seqtk
+
+https://github.com/lh3/seqtk
+
 (3) spades
+
+https://github.com/ablab/spades
+
 (4) mreps(optinal, only for rDNA)
+
+http://mreps.univ-mlv.fr/index.html
+
 (5) mira(optinal, alternative assembler)
+
+http://www.chevreux.org/projects_mira.html
 
 
 ## Getting the source code
