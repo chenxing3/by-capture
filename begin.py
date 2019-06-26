@@ -30,7 +30,7 @@ def configure():
     flags.DEFINE_string('mira', '/usr/bin/mira', 'mira assembler')
 
     ## parameters
-    flags.DEFINE_integer('IterNumber', 20, 'Number of iterative')
+    flags.DEFINE_integer('IterNumber', 16, 'Number of iteration')
     flags.DEFINE_integer('Filterlength', 150, 'initial length to filter short contigs')
     flags.DEFINE_integer('Add_length', 50, 'add a specific basepair for each iterative')
     flags.DEFINE_integer('SeqDepth', 3, 'initial sequence depth contigs')
