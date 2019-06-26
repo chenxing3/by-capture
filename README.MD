@@ -31,7 +31,7 @@ To obtain the source code from github, let us assume you want to clone this repo
 directory named `Waveman`:
 
     git clone https://github.com/chenxing3/by-capture
-    cd ./Waveman
+    cd ./by-capture
     
 ## This software support fastq or compressed files as inputs. Reference sequence also required
 
