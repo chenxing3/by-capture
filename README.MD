@@ -62,7 +62,7 @@ Here, we summarize how to setup this software package and run the scripts on a s
 
     $ python begion.py --organelle rDNA
 
-The result file is contigs.fasta.filter.fasta in each iteration folders (/by-catpure/begin_assembly/tmp/iter_16/spades). 
+The result file is contigs.fasta.filter.fasta in each iteration folder (such as /by-catpure/begin_assembly/tmp/iter_16/spades). 
 
 ## License
 Code and audio data are available for research purposes only. For any other use of the software or data, please contact the us.
