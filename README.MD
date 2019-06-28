@@ -1,5 +1,5 @@
 by-capture is a tool to assembly mitochondrial geneome or rDNA or other small gene regions, which depend on SPAdes assember.
-It is based on deep learning method and is written using Python3(64-bit), which tested in Linux and Mac OS; not support Windows.
+It is written using Python3(64-bit), which tested in Linux and Mac OS; not support Windows.
 
 ## Citation
 
@@ -7,7 +7,7 @@ It is based on deep learning method and is written using Python3(64-bit), which 
 ## Dependencies
 depends on 
 + [Python 64-bit] in Linux
-It wroten using python 3 and related packages:
+It was wroten using python 3 and related packages:
 
 (1) subprocess
 (2) argparse
